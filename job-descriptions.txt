@@ -1,0 +1,69 @@
+To be considered, candidates must be creative, passionate about process improvement, be self-sufficient, passionate for learning new things and have a strong technical ability in the following areas:
+
+Excellent communication and problem-solving skills
+Demonstrable ability to work as part of an integrated solution development team
+Excellent verbal and written communications skills.
+Ability to manage tasks effectively
+What your role encompasses: Use the latest versions of different JavaScript Frameworks to develop high-quality applications that provide a delightful user experience. Work closely with UI/UX team on multiple on-going projects to develop clean, reusable, well-structured and maintainable code.
+
+Qualifications
+
+Education:
+
+BS 2-4 Years, MS 0-2 or HS 8-10
+
+Experience Required:
+1-2+ years of experience working with HTML/CSS/JavaScript and related front-end and back-end technologies in a professional environment
+JavaScript Frameworks such as Vue.js, React, Angular.js also apply
+Experience in developing adaptive and responsive UI/UX solutions for software development projects that specialize in web and mobile-based applications
+Experience and proficiency with Elk Stack and Kibana
+Demonstrate a good understanding of the syntax and semantics of JavaScript/Typescript
+0-2+ years of experience utilizing RESTful API web services in front-end development
+Demonstrate an understanding of how API's work within a full-stack environment
+Demonstrate a basic understanding of NoSQL/SQL language
+Bachelor's Degree in Computer Science, Software Engineering, or related field
+No Clearance Required
+Eligible and willing to be submitted for Top Secret level clearance
+US Citizenship Required
+Why choose us?
+
+Variety: You will work on multiple programs. You and your manager will have discussions to ensure your assignments are on track with your growth goals and interest areas.
+Flexibility: You will have the opportunity for a flexible work schedule. Subject to program requirements, you can set your hours while fulfilling 80 hours every two weeks. Additionally, while classified work requires onsite work, most staff can schedule about 20% of their time as work from home.
+Value: You will support interesting and challenging projects that are not repetitive or monotonous, but rather have novelty and innovation; and great people to learn from and work with - collegial, smart, inspiring.
+Who we're looking for:
+
+Cyber: We are looking for staff with a strong interest (and ideally a track record) in cyber security research and development w/ strong software development skills.
+Generalists:You'll typically focus your work on the domain(s) of your specialty or preference, but a strong multi-domain awareness and ability is required. You should have a curiosity to learn new technology.
+Tangible: You'll work on applied research program to conceive and develop prototypes to solve cutting-edge, complex problems.
+<end>
+What are we looking for ?
+
+Full-stack product designers with skills across the design spectrum (not separate UX and UI designers)
+Native iOS and Android app platforms
+Responsive web optimizing for multiple break points
+Complex systems, transactions, sales & onboarding, servicing (not marketing or brand design)
+Financial services, preferred
+Focus on design for delivery, optimizing existing features, production design as needed, making and craft skills, leveraging a design system, solid experience with delivery, development support and shipping. (We don’t need design strategy, research or content strategy at this point as staff aug will not be working on new product features, but would be helpful to understand what the cost structure would be if we want to add on some design strategy/leads later on.)
+Use of design system (will need to use our established design system – Helix)
+Mastery of Sketch and InVision of core toolkit
+Experience operating in large, matrixed corporate environments that includes the need to collaborate, influence without authority, operate within a strong risk framework, and follow information security restrictions
+Experience with agile/scrum a plus
+Mid-level designers with 2-4 years of experience capable of working with leads and design directors (not seeking leads, strategists and design directors)
+<end>
+Our nine core values empower a culture of integrity, learning, taking risks, making a difference, constantly improving, and helping our team achieve a healthy work-life balance with flexible schedules and remote work options.
+As one of our UX/UI Designers, you have a keen interest and experience in several (but not necessarily all) of the following: user experience (UX) strategy and design, user interface (UI) design, stakeholder and user research, information architecture, information visualization design, and user testing. We are not looking for unicorns – rather generalists with deep areas of expertise or interest. While we don’t expect you to code, if you have the skills to put together interactive prototypes, that would be appreciated. Your ideal type of squad consists of inventive developers, brilliant data scientists, passionate design peers, and other killer professionals working in a collaborative, agile environment (though sometimes we do waterfall, too!).
+
+Responsibilities:
+Play a key role in ensuring that each RS21 project is effective, engaging, usable, consistent, and aligned with the client’s goals.
+Participate in client engagements and user research efforts.
+Assist in defining functional requirements, develop site maps, unsnarl taxonomy challenges, and produce wireframes.
+Work closely with the dev team to deliver UX and/or UI artifacts on a sprint-by-sprint basis.
+Able to collaborate fluidly with other designers, developers, and data scientists.
+
+Qualifications:
+Certification, continuing education or undergraduate degree (or the equivalent experience) in one of the following: User Experience, Information Architecture, Human Computer Interaction, Communication Design, Fine Arts, or related field preferred.
+2-4+ Years of experience.
+A solid understanding of many of the following: user experience strategy, user experience design, stakeholder and user research, information architecture, content strategy, information design, user interface design, and user testing.
+Ability to work in complex technical domains and design software for experts who are accustomed to complex user flows.
+Experience with Figma, FigJam, Condens, Adobe Creative Suite, vector-based UX & UI tools - and a willingness to learn new tools as needed.
+We expect all of our employees and candidates to exemplify the RS21 Mission & Values, and to be excited to work towards our collective vision.  
